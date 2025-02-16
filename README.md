@@ -1,6 +1,7 @@
 # 525-DeepThinkers
-Build a learning neural network
+
 CDS525-Handwriting Recognition Project
+
 项目简介
 本项目旨在实现一个基于深度学习的手写识别系统，使用KMNIST数据集进行训练和测试。KMNIST是一个包含日语假名字符的手写图像数据集，类似于经典的MNIST数据集。通过该项目，我们将探索卷积神经网络（CNN）在图像分类任务中的应用，并优化模型以实现高效准确的手写字符识别。
 
