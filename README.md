@@ -100,7 +100,7 @@ python src/visualize.py
 • 超参数：
 • 学习率：0.001
 • 批量大小：64
-• 训练轮数：20
+• 训练轮数：5/10
 
 性能指标
 • 训练准确率：预期达到95%以上。
@@ -114,7 +114,7 @@ python src/visualize.py
 联系方式
 如有任何问题或建议，请通过以下方式联系：
 • Email:lixinlin@ln.hk
-• GitHub:3094973309@qq.com
+
 
 参考文献
 • [KMNIST Dataset]()
